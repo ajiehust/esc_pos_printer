@@ -19,7 +19,8 @@ dependencies:
   path_provider: ^1.6.5
   ping_discover_network: ^0.2.0+1
   qr_flutter: ^3.2.0
-  wifi: ^0.1.5
+  # wifi: ^0.1.5 # wifi packages wifi incorporated to the flutter's connectivity plugi
+  wifi_info_flutter: ^2.0.2 # better solution, ref: https://stackoverflow.com/questions/52411168/how-to-get-device-ip-in-dart-flutter
   # esc_pos_utils:
   # path: ../../../esc_pos_utils
 
